@@ -5,8 +5,8 @@ Dê uma olhada no <a href="https://gitlab.com/Lucas-Mitchel17" target="_blank">m
 
  <div>
   <a href="https://github.com/Lucas-Mitchel17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mitchel17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mitchel17&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Lucas-Mitchel17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mitchel17&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -18,12 +18,10 @@ Dê uma olhada no <a href="https://gitlab.com/Lucas-Mitchel17" target="_blank">m
   <img align="center" alt="Lucas-Js" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div
   
-##
+<br>
 
 <div> 
   <a href = "mailto:lucasmitchelcampos17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/Lucas-Mitchel17" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-
- 
 </div>

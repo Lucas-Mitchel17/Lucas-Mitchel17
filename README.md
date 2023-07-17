@@ -5,7 +5,8 @@ A maioria dos projetos são privados, mas você pode conferir alguns deles na ab
 
  <div>
   <a href="https://github.com/Lucas-Mitchel17">
-  <img height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mitchel17&layout=compact&langs_count=7&theme=radical"/>
+   <img height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mitchel17&layout=compact"/>
+  </a>
 </div>
  
 <div style="display: inline_block"><br>

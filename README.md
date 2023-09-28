@@ -1,6 +1,6 @@
 ### Seja bem vindo! 🙂 <br>
 Muito prazer, meu nome é Lucas Mitchel. Trabalho atualmente com desenvolvimento Frontend. <br>
-Venho utilizando tecnologias e frameworks como Vue.js e Gridsome em meus projetos, tanto freelancer como por empresas. <br>
+Venho utilizando tecnologias e frameworks como Vue.js e Astro em meus projetos, tanto freelancer como por empresas. <br>
 A maioria dos projetos são privados, mas você pode conferir alguns deles na aba de projetos do meu <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank">Linkedin!</a> Fique a vontade!
 
  <div>

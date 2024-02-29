@@ -1,7 +1,7 @@
 ### Seja bem vindo! 🙂 <br>
-Muito prazer, meu nome é Lucas Mitchel. Trabalho atualmente com desenvolvimento Frontend. <br>
-Venho utilizando tecnologias e frameworks como Vue.js e Astro em meus projetos, tanto freelancer como por empresas. <br>
-A maioria dos projetos são privados, mas você pode conferir alguns deles na aba de projetos do meu <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank">Linkedin!</a> Fique a vontade!
+Nice to meet you, my name is Lucas Mitchel. I currently work in Web development. <br>
+I have been using technologies and frameworks such as Vue.js and Astro in my projects, both freelance and for companies. <br>
+Most of the projects are private, but you can check out some of them in the projects tab of my <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank">Linkedin!</a> Feel free to get in touch!
 
  <div>
   <a href="https://github.com/Lucas-Mitchel17">
@@ -21,7 +21,7 @@ A maioria dos projetos são privados, mas você pode conferir alguns deles na ab
   
 ## <br>
 
-### Entre em contato ou visite meu perfil em:
+### Get in touch or visit my profile at:
  
 <div> 
   <a href = "mailto:lucasmitchelcampos17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

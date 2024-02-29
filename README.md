@@ -1,8 +1,13 @@
-### Welcome! 🙂 <br>
-***
-Nice to meet you, my name is Lucas Mitchel. I currently work in Web development. <br>
-I have been using technologies and frameworks such as Vue.js and Astro in my projects, both freelance and for companies. <br>
+<h1 >Welcome! 🙂</h1>
+Nice to meet you, my name is <strong>Lucas Mitchel</strong>. I currently work in Web development. <br>
+I have been using technologies and frameworks such as Vue.js and Astro in my projects and also learning Laravel, both freelance and for companies. <br>
 Most of the projects are private, but you can check out some of them in the projects tab of my <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank">Linkedin!</a> Feel free to get in touch!
+
+<h2>Cool projects:</h2>
+ - <a href="https://bitzen-pet.vercel.app/#/" target="_blank">Bitzen Pet</a> <br>
+ - <a href="https://precare.ca/" target="_blank">Precare Ca</a> <br>
+ - <a href="https://engaged-lucas-mitchel.vercel.app/" target="_blank">Rick and Morty characters</a> <br>
+
 
 ---
  <div>

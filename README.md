@@ -1,4 +1,4 @@
-### Seja bem vindo! 🙂 <br>
+### Welcome! 🙂 <br>
 Nice to meet you, my name is Lucas Mitchel. I currently work in Web development. <br>
 I have been using technologies and frameworks such as Vue.js and Astro in my projects, both freelance and for companies. <br>
 Most of the projects are private, but you can check out some of them in the projects tab of my <a href="https://www.linkedin.com/in/lucasmitchel/" target="_blank">Linkedin!</a> Feel free to get in touch!

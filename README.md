@@ -12,7 +12,6 @@ Most of my projects are private, but you can check some on my
 <h2>🚀 Cool projects:</h2>
 
 - <a href="https://bitzen-pet.vercel.app/#/" target="_blank">Bitzen Pet</a>  
-- <a href="https://precare.ca/" target="_blank">Precare Ca</a>  
 - <a href="https://engaged-lucas-mitchel.vercel.app/" target="_blank">Rick and Morty characters</a>
 - <a href="https://github.com/Lucas-Mitchel17/pivot" target="_blank">Pivot</a>
 
